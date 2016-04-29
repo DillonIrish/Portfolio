@@ -4,8 +4,14 @@ Portfolio that demonstrates my understanding of the Computer Science learning go
 ##Files
 Along with the five assignments, I have included my Resume and a document explaining the Computer Science learning goals.
 
-##Article 1: System Architecture Term Paper
+##Text Exchange
 
-##Article 2: Scuba Steve's Math Adventure
+##System Architecture Term Paper
+
+##Scuba Steve's Math Adventure
+
+##Virtual Memory Manager
+
+##Knapsack Problem
 
 
